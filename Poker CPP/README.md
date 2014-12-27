@@ -5,10 +5,15 @@ The player will have no opportunity to exchange cards, and his hand will immedia
 Winning hands will be limited to the following combinations (list in order of precedence):
 
 •	Four of a kind
+
 •	Flush (all cards of the same suit)
+
 •	Three of a kind
+
 •	Two pair
+
 •	One pair
+
 
 Players can play themselves or against other players. The program should prompt the operator on startup for the number of players that are participating in a particular game. In order to evaluate the performance of this new software, the casino has requested that they be able to provide the random seed for deck shuffling as an input. The following .h and .cpp files are provided in the code:
 •	card.h
