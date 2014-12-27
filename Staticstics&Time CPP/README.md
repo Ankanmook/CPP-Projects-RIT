@@ -1,4 +1,4 @@
-Assignment
+Problem
 
 This is a simple software program that takes race times as inputs and outputs key statics about those times.
 These include the minimum (winning) time, the maximum time, the mean, median and modes of the times.
@@ -54,7 +54,7 @@ Given the following input:
    1:59:55
    
 
-my program prints out the following output:
+My program prints out the following output:
    
    min: 1:06:14
    
