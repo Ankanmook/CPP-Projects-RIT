@@ -1,4 +1,4 @@
-Assignment
+Problem
 
 My program will compare two lists of integers to validate that all the numbers that appear in list 1 also appear in list 2. The format for the input must be the size of the first list, followed by the elements of that list. Then, the user should be prompted for the size of the second list, followed by the elements of that list. If all the elements in list1 appear in list2, then the program should print "TRUE", otherwise, the program should print "FALSE".
 
