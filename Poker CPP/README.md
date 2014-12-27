@@ -1,4 +1,4 @@
-Assignment
+Problem
 
 I have developed a new system in C++ that takes a single deck of cards and deals to a specified number of players. The player will have no opportunity to exchange cards, and his hand will immediately validated by the software. Winning hands will be limited to the following combinations (list in order of precedence):
 •	Four of a kind
