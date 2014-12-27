@@ -1,0 +1,33 @@
+Goal
+
+The goal of this project is two fold. Firstly, to observe empirically complexities of different implementations of algorithms for the same problem: finding longest common subsequence in two sequences. Secondly, to find out how accurate are the theoretical estimates of complexity when compared to practical execution times.
+
+
+Algorithms Used:
+
+Implemented the following algorithms for the longest common subsequence problem:
+
+Naive recursive algorithm
+
+Recursive algorithm with memoization
+
+Dynamic programming version of the algorithm
+
+Quadratic-time linear-space algorithm
+
+In each case the task is to find the length of the longest common subsequence of two sequences, and generate some or all of them. Used C++, for this project.
+
+
+Input Data:
+
+Used small toy examples first, to ensure that my implementations are logically correct. 
+Used alphabets {0,1} and {A,C,G,T}.
+Varied the length and structure of input sequences, use some randomly generated sequences.
+Counted the number of recursive calls and relate it to cpu time.
+Find the largest inputs you can process in 10 cpu seconds, for each of the algorithms.
+
+Use in future:
+To Compare the performance of your algorithms for small alphabets versus large alphabets (20 or more characters).
+Could be Use some realistic cases motivated by DNA sequences.
+Could be Used in Condor to parallelize LCS computations with different weighting schemes for VERY long sequences.
+
