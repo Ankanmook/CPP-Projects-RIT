@@ -30,3 +30,4 @@ Use in future:
 To Compare the performance of your algorithms for small alphabets versus large alphabets (20 or more characters).
 Could be Use some realistic cases motivated by DNA sequences.
 Could be Used in Condor to parallelize LCS computations with different weighting schemes for VERY long sequences.
+
