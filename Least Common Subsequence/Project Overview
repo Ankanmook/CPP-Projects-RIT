@@ -1,6 +1,8 @@
 Goal
 
-The goal of this project is two fold. Firstly, to observe empirically complexities of different implementations of algorithms for the same problem: finding longest common subsequence in two sequences. Secondly, to find out how accurate are the theoretical estimates of complexity when compared to practical execution times.
+The goal of this project is two fold. Firstly, to observe empirically complexities of different implementations of 
+algorithms for the same problem: finding longest common subsequence in two sequences. Secondly, to find out how 
+accurate are the theoretical estimates of complexity when compared to practical execution times.
 
 
 Algorithms Used:
