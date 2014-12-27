@@ -1,17 +1,28 @@
 Assignment
+
 This program  is able to read in a text file and output the frequency of each work in the file. The 'experts' will use this data to analyze and compare the writing of Shakespeare to modern day poets and play writes.
 
 The input files are likely to have punctuation at the end of some words. Those punctuation marks should be discarded so that the following two inputs would be considered equivalent: hello and hello,. In addition, I have ignored quotes, such that 'hello' and hello are equivalent. The following punctuation at the end of a word have been deleted:
 •	!
+
 •	.
+
 •	,
+
 •	?
+
 •	;
+
 •	:
+
 •	-
+
 •	|
+
 And the following punctuation AROUND words have been deleted:
+
 •	'
+
 Return Values, Errors and Error Handling
 My program checks to see that a single filename is specified on the command line. If it is not, the program prints out the following error to STDERR:
    Usage:
